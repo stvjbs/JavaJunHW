@@ -13,4 +13,13 @@ public class Student implements Serializable {
         this.age = age;
         this.GPA = GPA;
     }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                ", GPA=" + GPA +
+                '}';
+    }
 }
