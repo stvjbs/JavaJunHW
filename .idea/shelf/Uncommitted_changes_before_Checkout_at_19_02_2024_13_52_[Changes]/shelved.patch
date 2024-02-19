@@ -1,0 +1,78 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"92fcd479-cfcc-4432-b9bd-311c20641c0b\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/encodings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/uiDesigner.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/pom.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/HW2/Animal.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/HW2/Cat.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/HW2/Dog.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/org/HW2/Main.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 3\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"2cJznaEU2GD95e6Lx8VHkFFI1nw\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.Main.executor\": \"Run\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"kotlin-language-version-configured\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"92fcd479-cfcc-4432-b9bd-311c20641c0b\" name=\"Changes\" comment=\"\" />\r\n      <created>1707844637634</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1707844637634</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,18 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="92fcd479-cfcc-4432-b9bd-311c20641c0b" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/HW2/Animal.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/HW2/Cat.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/HW2/Dog.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/org/HW2/Main.java" afterDir="false" />
++    <list default="true" id="92fcd479-cfcc-4432-b9bd-311c20641c0b" name="Changes" comment="ready HW 3">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/org/HW2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/HW2/Main.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -32,9 +23,9 @@
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "associatedIndex": 3
+-}]]></component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 3
++}</component>
+   <component name="ProjectId" id="2cJznaEU2GD95e6Lx8VHkFFI1nw" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectViewState">
+@@ -47,7 +38,7 @@
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "git-widget-placeholder": "master",
++    "git-widget-placeholder": "HW2",
+     "kotlin-language-version-configured": "true"
+   }
+ }]]></component>
+Index: src/main/java/org/HW2/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package org.HW2;\r\nimport java.lang.reflect.Field;\r\nimport java.lang.reflect.Method;\r\npublic class Main {\r\n    public static void main(String[] args) throws IllegalAccessException {\r\n        Animal barsik = new Dog(\"Barsik\", 4, \"Bigl\");\r\n        Animal sharik = new Dog(\"Sharik\", 5, \"Toyteryer\");\r\n        Animal tisha = new Cat(\"Tisha\", 8, 8);\r\n        Animal murza = new Cat(\"Murza\", 14, 12);\r\n        Animal[] animals = {barsik, sharik, tisha, murza};\r\n\r\n        StringBuilder message = new StringBuilder();\r\n        for (Animal animal : animals) {\r\n            message.append(animal.getClass().getName()).append(\"\\n\");\r\n            Field[] fields = animal.getClass().getDeclaredFields();\r\n            Field[] superFields = animal.getClass().getSuperclass().getDeclaredFields();\r\n            for (Field superField : superFields) {\r\n                message.append(superField.getName()).append(\" - \").append(superField.get(animal)).append(\"\\n\");\r\n            }\r\n            for (Field field : fields) {\r\n                message.append(field.getName()).append(\" - \").append(field.get(animal)).append(\"\\n\");\r\n            }\r\n        }\r\n\r\n        System.out.println(message);\r\n\r\n        for (Animal animal : animals) {\r\n            try {\r\n                Method makeSound = animal.getClass().getDeclaredMethod(\"makeSound\");\r\n                makeSound.setAccessible(true);\r\n                makeSound.invoke(animal);\r\n            } catch (Exception e) {\r\n                System.out.printf(\"Сlass %s have no such method with this name \\n\", animal.getClass().getName());\r\n            }\r\n        }\r\n    }\r\n\r\n\r\n}\r\n
+===================================================================
+diff --git a/src/main/java/org/HW2/Main.java b/src/main/java/org/HW2/Main.java
+--- a/src/main/java/org/HW2/Main.java	
++++ b/src/main/java/org/HW2/Main.java	
+@@ -8,12 +8,12 @@
+         Animal tisha = new Cat("Tisha", 8, 8);
+         Animal murza = new Cat("Murza", 14, 12);
+         Animal[] animals = {barsik, sharik, tisha, murza};
+-
++        Field[] fields = Animal.class.getDeclaredFields();
++        Field[] superFields = Animal.class.getSuperclass().getDeclaredFields();
+         StringBuilder message = new StringBuilder();
+         for (Animal animal : animals) {
+             message.append(animal.getClass().getName()).append("\n");
+-            Field[] fields = animal.getClass().getDeclaredFields();
+-            Field[] superFields = animal.getClass().getSuperclass().getDeclaredFields();
++
+             for (Field superField : superFields) {
+                 message.append(superField.getName()).append(" - ").append(superField.get(animal)).append("\n");
+             }
